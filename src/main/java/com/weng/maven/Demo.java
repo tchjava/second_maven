@@ -38,7 +38,8 @@ public class Demo {
     }
 
     public void fun5(){
-        //补全fun5的内容xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         System.out.println("再次补充fun5方法..");
+        //补全fun5的内容
+        System.out.println("补全了fun5方法..");
     }
 }

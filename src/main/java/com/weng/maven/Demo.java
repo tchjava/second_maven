@@ -32,4 +32,8 @@ public class Demo {
     public void fun4(){
         System.out.println("添加了fun4方法..");
     }
+    
+    public void fun5(){
+        //补全fun5的内容
+    }
 }

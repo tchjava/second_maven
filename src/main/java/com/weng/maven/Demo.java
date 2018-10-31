@@ -1,6 +1,8 @@
 package com.weng.maven;
 
 
+import javax.sound.midi.Soundbank;
+
 public class Demo {
     public static void main(String[] args) {
         System.out.println("执行一个主方法..");
@@ -19,5 +21,9 @@ public class Demo {
 
     public void fun2(){
         System.out.println("添加了fun2方法");
+    }
+
+    public void fun3(){
+        System.out.println("添加了fun3方法");
     }
 }

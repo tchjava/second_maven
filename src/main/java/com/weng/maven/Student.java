@@ -2,7 +2,7 @@ package com.weng.maven;
 
 public class Student {
     private Long id;
-
+    private String name;//姓名
     public Long getId() {
         return id;
     }
@@ -10,4 +10,6 @@ public class Student {
     public void setId(Long id) {
         this.id = id;
     }
+    
+    //姓名的set/get
 }

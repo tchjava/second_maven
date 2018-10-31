@@ -6,4 +6,8 @@ public class Demo {
 
         System.out.println("添加一个输出语句");
     }
+    
+    public void run(){
+          System.out.println("添加了一个run方法");
+    }
 }

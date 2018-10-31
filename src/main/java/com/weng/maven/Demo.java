@@ -11,4 +11,8 @@ public class Demo {
         System.out.println("添加了一个run方法");
         System.out.println("在run方法中添加了次要语句..");
     }
+    
+    public void s_fun1(){
+        System.out.println("添加了一个github的fun1方法...");
+    }
 }

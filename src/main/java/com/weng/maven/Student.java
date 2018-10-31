@@ -2,7 +2,7 @@ package com.weng.maven;
 
 public class Student {
     private Long id;
-
+    private String gender;//性别
     public Long getId() {
         return id;
     }

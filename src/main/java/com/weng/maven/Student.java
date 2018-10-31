@@ -13,4 +13,6 @@ public class Student {
     }
 
     //姓名的set/get
+    
+    //性别的set/get
 }

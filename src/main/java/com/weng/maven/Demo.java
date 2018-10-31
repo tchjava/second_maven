@@ -28,4 +28,8 @@ public class Demo {
     public void s_fun2(){
         System.out.println("添加了github_fun2方法..");
     }
+
+    public void fun4(){
+        System.out.println("添加了fun4方法..");
+    }
 }

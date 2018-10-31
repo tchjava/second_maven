@@ -39,5 +39,6 @@ public class Demo {
 
     public void fun5(){
         //补全fun5的内容
+        System.out.println("补全了fun5方法..");
     }
 }

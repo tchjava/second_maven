@@ -9,5 +9,6 @@ public class Demo {
     
     public void run(){
           System.out.println("添加了一个run方法");
+        System.out.println("在run方法中添加了次要语句..");
     }
 }

@@ -13,7 +13,7 @@ public class Demo {
         System.out.println("在run方法中添加了次要语句..");
     }
 
-    public void fun1(){
+    public void fun1() {
         System.out.println("添加了fun1方法");
     }
 }

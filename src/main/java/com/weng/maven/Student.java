@@ -12,5 +12,5 @@ public class Student {
         this.id = id;
     }
 
-    //姓名的set/get
+
 }

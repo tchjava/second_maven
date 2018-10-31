@@ -36,4 +36,8 @@ public class Demo {
     public void fun6(){
         System.out.println("添加了fun6的方法");
     }
+
+    public void fun5(){
+        //补全fun5的内容
+    }
 }

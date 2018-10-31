@@ -16,8 +16,8 @@ public class Demo {
     public void fun1() {
         System.out.println("添加了fun1方法");
     }
-    
-    public void s_fun1(){
-        System.out.println("添加了一个github的fun1方法...");
+
+    public void fun2(){
+        System.out.println("添加了fun2方法");
     }
 }

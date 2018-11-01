@@ -79,4 +79,6 @@ public class Demo {
 
     //不适用stash解决冲突,commit后push
 
+
+    //不适用stash解决冲突,commit后push_bug
 }

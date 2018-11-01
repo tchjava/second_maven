@@ -76,4 +76,6 @@ public class Demo {
     //你好
     //local_hello
     //github_hello
+    
+    //不适用stash解决冲突,commit后push_bug
 }

@@ -27,5 +27,6 @@ public class TClass {
 
     public void setName(Long name) {
         this.name = name;
+        System.out.println("xx");
     }
 }

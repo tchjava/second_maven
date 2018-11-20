@@ -48,4 +48,49 @@ public class Demo {
 
 
     //注释1
+    
+    //这是dev分支
+    
+    //github上又添加了一个dev分支
+
+
+    //我在开发中...
+
+
+    //又开发了一套东西
+    public  void swimng(){
+        System.out.println("你好吗");
+    }
+
+
+    //github上再次添加了一个dev分支
+    public void agin1(){
+
+    }
+
+    //add
+    //commit
+    //add,commit
+    //add1,commit
+
+    //你好
+    //local_hello
+    //github_hello
+
+    //不适用stash解决冲突,commit后push
+
+
+    //不适用stash解决冲突,commit后push_bug
+    
+    //201811011010
+    //201811011011
+    //xxx
+
+    //添加一个功能
+    //do it
+
+    //模拟另一个人也进行了修改并已经提交上来
+
+    //添加了新功能
+
 }
